@@ -1,5 +1,7 @@
 ## Hi there 👋
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0verL1nk&theme=default)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=0verL1nk&count_private=true&show_icons=true&theme=solarized-light&show_icons=true" />
+</a>
 <!--
 **0verL1nk/0verL1nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
